@@ -1,0 +1,9 @@
+# Requirements.txt
+
+Create file:
+
+```txt
+pandas
+numpy
+matplotlib
+scikit-learn
