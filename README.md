@@ -7,10 +7,8 @@ This project predicts the risk of heart disease using Machine Learning algorithm
 ---
 
 ## 👩‍🎓 Student Details
-- **Name:** Gauri Sharma  
-- **Registration No:** PIET23CR020  
-- **College:** Poornima Institute of Engineering & Technology (PIET)
-
+- **Name:** Gauri Sharma
+- B- TECH (Computer Science and Engineering)
 ---
 
 ## 🚀 Features
